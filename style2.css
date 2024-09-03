@@ -79,11 +79,11 @@
 /*-----------------------------------------------------------------------------------*/
 
 body.portfolio-body {
-    background-image: url(Images/waterfall.jpg);
-    background-size: cover; /* Ensures the background image covers the entire viewport */
-    background-position: center; /* Centers the background image */
+    background-image: url(images/waterfall.jpg);
+    background-size: cover; 
+    background-position: center; 
     min-height: 100vh;
-    background-repeat: no-repeat; /* Prevents the background image from repeating */
+    background-repeat: no-repeat;
 }
 
 .Projects {
