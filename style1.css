@@ -10,7 +10,7 @@
 
 
 .home-body {
-    background-image: url(Images/Texas_A&M.jpeg);
+    background-image: url(images/Texas_A&M.jpeg);
     background-size: cover; 
     background-position: center; 
     min-height: 100vh;
@@ -354,12 +354,12 @@
     color: rgb(80, 0, 0);
 }
 
-.Resume b {
+.Resume a {
     color: rgb(129, 0, 0);
     text-decoration: none;
 }
 
-.Resume b:hover {
+.Resume a:hover {
     text-decoration: underline;
 }
 

@@ -69,7 +69,7 @@
 
 
 .home-body {
-    background-image: url(Images/Tundra1.jpg);
+    background-image: url(images/Tundra1.jpg);
     background-size: cover; 
     background-position: center; 
     min-height: 100vh;
@@ -199,7 +199,7 @@
 
 /*----------------------------------------------Portfolio-----------------------------------------------*/
 body.portfolio-body {
-    background-image: url(Images/waterfall.jpg);
+    background-image: url(images/waterfall.jpg);
     background-size: cover; 
     background-position: center; 
     min-height: 100vh;
@@ -343,7 +343,7 @@ body.portfolio-body {
 
 
 body.qual-body {
-    background-image: url(Images/lava.jpg);
+    background-image: url(images/lava.jpg);
     background-size: cover; 
     background-position: center; 
     min-height: 100vh;
@@ -393,12 +393,12 @@ body.qual-body {
     color:white;
 }
 
-.Resume b {
+.Resume a {
     color: white;
     text-decoration: none;
 }
 
-.Resume b:hover {
+.Resume a:hover {
     text-decoration: underline;
 }
 
@@ -423,7 +423,7 @@ body.qual-body {
 
 
 body.service-body {
-    background-image: url(Images/desert2.jpg);
+    background-image: url(images/desert2.jpg);
     background-size: cover; 
     background-position: center; 
     min-height: 100vh;
@@ -503,7 +503,7 @@ body.AI-page-body {
     font-family: 'Glegoo', serif;
     margin: 0;
     padding: 0;
-    background-image: url(Images/underwater.jpg);
+    background-image: url(images/underwater.jpg);
     background-size: cover;
     color: #ffffff;
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7);
